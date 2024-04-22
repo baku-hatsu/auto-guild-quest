@@ -1,0 +1,19 @@
+{
+    "name": "auto-guild-quest",
+    "author": "Növa",
+    "version": "1.0.0",
+    "description": "Mt: The Dream Toolbox module that auto completes Guild Quest and takes it again.",
+    "options": {
+        "reloadable": true,
+        "cliName": "auto-gq",
+        "guiName": "Auto Guild Quest",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings.js"
+    },
+    "servers": [],
+    "supportUrl": "",
+    "conflicts": [
+        "Auto-Guildquest"
+    ]
+}
