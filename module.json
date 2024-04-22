@@ -11,8 +11,10 @@
         "settingsFile": "config.json",
         "settingsMigrator": "settings.js"
     },
-    "servers": [],
-    "supportUrl": "",
+    "servers": [
+        "https://raw.githubusercontent.com/baku-hatsu/auto-guild-quest/master/"
+    ],
+    "supportUrl": "https://github.com/baku-hatsu/auto-guild-quest/issues",
     "conflicts": [
         "Auto-Guildquest"
     ]

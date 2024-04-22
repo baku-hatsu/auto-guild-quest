@@ -1,3 +1,5 @@
+### TERA Auto Guild Quest (MT: The Dream)
+
 This mod runs on default in-launcher Toolbox.
 
 ## Version 3.0.2
